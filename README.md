@@ -32,3 +32,28 @@ The system is built using CrewAI to manage AI agents and tasks, it is using gpt4
 
    - Serper API
    - Alpha Vantage API
+### Setup
+1- Clone the repository:
+```
+git clone https://github.com/ijgitsh/data-access-ai-agents.git
+cd data-access-ai-agents
+```
+2- Install dependencies:
+```
+pip install -r requirements.txt
+```
+3- Set up environment variables:
+Replace API keys with your own in the script or export them in your terminal:
+```
+export SERPER_API_KEY="your_serper_api_key"
+export OPENAI_API_KEY="your_openai_api_key"
+export ALPHA_VANTAGE_API_KEY="your_alpha_vantage_api_key"
+```
+### Database Setup
+To set up the SQLite database with sample financial data, run:
+```
+python dbsetup.py
+```
+## Usage
+you can run the two scripts
+```
