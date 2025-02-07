@@ -13,23 +13,23 @@ The system is built using CrewAI to manage AI agents and tasks, it is using gpt4
 
 
 ## Features
--Internet Search: Uses SerperDevTool to fetch financial reports from the web.
+- Internet Search: Uses SerperDevTool to fetch financial reports from the web.
 
--Database Querying: Retrieves financial data stored in an SQLite database.
+- Database Querying: Retrieves financial data stored in an SQLite database.
 
--API Integration: Fetches real-time stock data using the Alpha Vantage API.
+- API Integration: Fetches real-time stock data using the Alpha Vantage API.
 
--Automated AI Agents: AI-powered agents collect, process, and format financial data into a structured report.
+- Automated AI Agents: AI-powered agents collect, process, and format financial data into a structured report.
 
 ## Installation
 
 ### Prerequisites
--Python 3.8+
+- Python 3.8+
 
--SQLite
+- SQLite
 
--API keys for:
+- API keys for:
 
---Serper API
+-- Serper API
 
---Alpha Vantage API
+-- Alpha Vantage API
