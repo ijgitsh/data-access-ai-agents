@@ -30,6 +30,5 @@ The system is built using CrewAI to manage AI agents and tasks, it is using gpt4
 
 - API keys for:
 
--- Serper API
-
--- Alpha Vantage API
+   - Serper API
+   - Alpha Vantage API
