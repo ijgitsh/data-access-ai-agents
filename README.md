@@ -55,5 +55,9 @@ To set up the SQLite database with sample financial data, run:
 python dbsetup.py
 ```
 ## Usage
-you can run the two scripts
+you can run the two scripts to see various scenarios based on the article
+
 ```
+python agent-data-acesss-scenario_one.py
+python agent-data-acesss-scenarios_limited.py
+'''
